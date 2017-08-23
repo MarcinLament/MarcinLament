@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "53J475K8R6.com.clearscore.wrapper",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "53J475K8R6.com.clearscore.ClearScore2.debug",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "53J475K8R6.com.clearscore.ClearScore2.alpha",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
