@@ -1,1 +1,9 @@
-hello
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.clearscore.mobile.debug",
+    "sha256_cert_fingerprints":
+    ["0C:23:77:92:B2:27:37:95:A3:0F:9C:23:64:BE:15:24:0D:A5:58:6A:C3:DE:43:B8:A8:59:56:F5:41:B2:48:34"]
+  }
+}]
