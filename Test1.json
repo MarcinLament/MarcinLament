@@ -1,0 +1,418 @@
+{  
+   overview:{  
+      reportDate:"28 February 2018",
+      clientRef:"CS-PEA-4323432-475456",
+      daysUntilNextReport:21,
+      name:"Xerxes Peace",
+      dob:"26 January 1974",
+      currentAddress:"38902 Onsgard Lane",
+      score:{  
+         score:254,
+         scoreBand:2,
+         scoreMaxValue:700,
+         scoreMinValue:0,
+         averageAreaScore:391,
+         averageAreaScoreBand:2,
+         averageUKScore:380,
+         averageUKScoreBand:2,
+         equifaxPsolScoreBand:2,
+         equifaxPsolScoreDescription:"Good"
+      },
+      history:{  
+         years:[  
+            2018,
+            2017
+         ],
+         history:{  
+            2017:[  
+               {  
+                  monthInt:12,
+                  score:254,
+                  scoreBand:2,
+                  direction:1,
+                  changes:[  
+
+                  ]
+               },
+               {  
+                  monthInt:11,
+                  score:254,
+                  scoreBand:2,
+                  direction:0,
+                  changes:[  
+
+                  ]
+               },
+               {  
+                  monthInt:10,
+                  score:254,
+                  scoreBand:2,
+                  direction:0,
+                  changes:[  
+
+                  ]
+               },
+               {  
+                  monthInt:9,
+                  score:254,
+                  scoreBand:2,
+                  direction:0,
+                  changes:[  
+
+                  ]
+               },
+               {  
+                  monthInt:8,
+                  score:254,
+                  scoreBand:2,
+                  direction:0,
+                  changes:[  
+
+                  ]
+               },
+               {  
+                  monthInt:7,
+                  score:254,
+                  scoreBand:2,
+                  direction:0,
+                  changes:[  
+
+                  ]
+               }
+            ],
+            2018:[  
+               {  
+                  monthInt:1,
+                  score:449,
+                  scoreBand:3,
+                  direction:0,
+                  changes:[  
+                     {  
+                        text:"You are now on the electoral roll at your current address",
+                        impact:"positive"
+                     }
+                  ]
+               },
+               {  
+                  monthInt:2,
+                  score:455,
+                  scoreBand:3,
+                  direction:0,
+                  changes:[]
+               }
+            ]
+         },
+         minScoreEver:254,
+         maxScoreEver:449
+      },
+      upcoming:{  
+         monthInt:3,
+         predictedScore:312,
+         changes:[  
+            {  
+               name:"alias",
+               code:"ALS0001",
+               timestamp:"2018-03-03T09:03:24Z",
+               details:{  
+                  title:"Honorable",
+                  name:"Oralee Putland"
+               }
+            },
+            {  
+               name:"rolling_register",
+               code:"RRR0002",
+               timestamp:"2018-03-01T09:03:24Z",
+               details:{  
+                  title:"Mr",
+                  name:"Xerxes Peace",
+                  sourceYear:"2018"
+               }
+            },
+            {  
+               name:"account_status",
+               code:"CRA0012",
+               timestamp:"2018-03-10T09:03:24Z",
+               details:{  
+                  clientName:"Brown, O'Kon and Heller",
+                  accountType:"Mortgage",
+                  status:"D",
+                  accountNumber:"******9233"
+               },
+               previous:{  
+                  status:"6"
+               }
+            }
+         ]
+      },
+      accounts:{  
+         currentAccounts:{  
+            count:1,
+            currentBalance:0,
+            limit:2000,
+            debtType:"SHORT"
+         },
+         creditCards:{  
+            count:1,
+            currentBalance:2070,
+            limit:2500,
+            debtType:"SHORT"
+         }
+      },
+      positiveScoreFactors:[  
+         "You have no <strong>Court or Insolvency</strong> data",
+         "You have no accounts in <strong>Default</strong> or <strong>Repossession</strong>",
+         "You have been on the <strong>Electoral Roll</strong> at your current address for a long time",
+         "You have made very few <strong>applications for credit</strong> in the past year",
+         "You have held at least one of your accounts for several years",
+         "You have very few / no accounts in <strong>arrears</strong>",
+         "You have stayed within your <strong>credit card limit</strong> in the past year"
+      ],
+      negativeScoreFactors:[  
+         "Your total <strong>credit card % utilisation</strong> is relatively high"
+      ]
+   },
+   personal:{  
+      personalInfo:{  
+         name:"Xerxes Peace",
+         dob:"26 January 1974",
+         addresses:[  
+            {  
+               address:"38902 Onsgard Lane",
+               current:true,
+               supplied:true,
+               contextKey:"ADDRESS_123456"
+            },
+            {  
+               address:"80704 Mayfield Terrace",
+               current:false,
+               supplied:true,
+               contextKey:"ADDRESS_12345"
+            }
+         ]
+      },
+      publicInfo:{  
+         courtAndInsolvencies:[  
+
+         ]
+      },
+      connections:{  
+         financialConnections:[  
+
+         ],
+         otherNames:[  
+
+         ]
+      },
+      electoralRoll:[  
+         {  
+            contextKey:"ELECTORAL_38902_Onsgard Lane",
+            name:"Xerxes Peace",
+            address:"38902 Onsgard Lane",
+            supplied:true,
+            current:true,
+            startDateString:"2013",
+            endDateString:"2018"
+         }
+      ],
+      fraudWarnings:[  
+
+      ]
+   },
+   accounts:{  
+      currentAccounts:[  
+         {  
+            contextKey:"ACCOUNT_LloydsWasLloydsTsb30345678268",
+            supplierFriendlyName:"Lloyds - Was Lloyds Tsb",
+            supplierName:"LLOYDS BANK (WAS LLOYDS TSB) (I)",
+            supplierImage:"lloyds",
+            accountNumber:"**********9876",
+            accountOpened:"22 August 1997",
+            lastUpdated:"19 December 2017",
+            currentBalance:0,
+            frequency:{  
+               code:"monthly",
+               text:"Monthly"
+            },
+            name:"Xerxes Peace",
+            address:"38902 Onsgard Lane",
+            paymentYears:[  
+               2017
+            ],
+            paymentHistory:{  
+               2017:[  
+                  {  
+                     monthInt:11,
+                     balance:0,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  },
+                  {  
+                     monthInt:10,
+                     balance:0,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  }
+               ]
+            },
+            origAccountCategory:"currentAccounts",
+            openingBalance:0,
+            yearStartBalance:0
+         }
+      ],
+      creditCards:[  
+         {  
+            contextKey:"ACCOUNT_Santander1234567896",
+            supplierFriendlyName:"Santander",
+            supplierName:"SANTANDER CREDIT CARDS (I)",
+            supplierImage:"santander",
+            accountNumber:"**********7431",
+            accountOpened:"2 July 2016",
+            lastUpdated:"18 December 2017",
+            currentBalance:2418,
+            limit:2500,
+            available:82,
+            frequency:{  
+               code:"monthly",
+               text:"Monthly"
+            },
+            name:"Xerxes Peace",
+            address:"38902 Onsgard Lane",
+            paymentYears:[  
+               2017
+            ],
+            paymentHistory:{  
+               2017:[  
+                  {  
+                     monthInt:11,
+                     limit:2500,
+                     statementBalance:1313,
+                     balance:2418,
+                     payment:1320,
+                     spending:1319,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isNoSpend:false,
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  },
+                  {  
+                     monthInt:10,
+                     limit:2000,
+                     statementBalance:228,
+                     balance:1746,
+                     payment:234,
+                     spending:915,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isNoSpend:false,
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  },
+                  {  
+                     monthInt:9,
+                     limit:2000,
+                     statementBalance:1060,
+                     balance:316,
+                     payment:1747,
+                     spending:1066,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isNoSpend:false,
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  },
+                  {  
+                     monthInt:8,
+                     limit:2000,
+                     statementBalance:738,
+                     balance:1339,
+                     payment:744,
+                     spending:744,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isNoSpend:false,
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  },
+                  {  
+                     monthInt:7,
+                     limit:2000,
+                     statementBalance:1086,
+                     balance:1296,
+                     payment:1092,
+                     spending:1094,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isNoSpend:false,
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  },
+                  {  
+                     monthInt:6,
+                     limit:2000,
+                     statementBalance:1036,
+                     balance:1300,
+                     payment:1044,
+                     spending:1041,
+                     accountStatusCode:{  
+                        code:"ZERO",
+                        text:"Up to date with payments"
+                     },
+                     isNoSpend:false,
+                     isLatePayment:false,
+                     isMissedPayment:false
+                  }
+               ]
+            },
+            origAccountCategory:"creditCards",
+            openingBalance:0,
+            yearStartBalance:957
+         }
+      ]
+   },
+   searches:{  
+      hard:[  
+
+      ],
+      soft:[  
+         {  
+            contextKey:"SEARCH_CLEARSCORE POWERED BY CAPITALONE_96170602_02/01/2018_CREDIT_QUOTATION",
+            organisationType:{  
+               code:"CC",
+               text:"Credit Card"
+            },
+            organisationName:"CLEARSCORE POWERED BY CAPITALONE",
+            purpose:{  
+               code:"creditQuotation",
+               text:"Credit Quotation"
+            },
+            searchDate:"2 January 2018",
+            name:"Xerxes Peace",
+            address:"38902 Onsgard Lane",
+            dob:"26 January 1974",
+            isJointApplication:false
+         }
+      ]
+   },
+   notices:[  
+
+   ]
+}
